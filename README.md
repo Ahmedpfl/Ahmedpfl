@@ -9,7 +9,7 @@ role: Junior Full-Stack Developer
 
 ## ◇ Skills
 
-![LARAVEL](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel&logoColor=white)
+![Laravel](https://shields.io)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
