@@ -9,6 +9,7 @@ role: Junior Full-Stack Developer
 
 ## ◇ Skills
 
+![LARAVEL](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,8 +23,3 @@ role: Junior Full-Stack Developer
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Twig](https://img.shields.io/badge/Twig-B4CA65?style=for-the-badge&logo=twig&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-## ◇ GitHub stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aoctopuss&show_icons=true&theme=transparent&hide_border=true" alt="Ahmed's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoctopuss&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
